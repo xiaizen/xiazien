@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vite, Git, Tech**
 
-- 📫 How to reach me **yusuf@zanist.xyz**
+- 📫 How to reach me **yk214700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
