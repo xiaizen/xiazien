@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaizen&label=Profile%20views&color=0e75b6&style=flat" alt="xiaizen" /> </p>
 
 - 🔭 I’m currently working on [Zanist](https://zanist.xyz/)
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **yk214700@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/yusufemrekaplann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufemrekaplann" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufemrekaplann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufemrekaplann" height="30" width="40" /></a>
